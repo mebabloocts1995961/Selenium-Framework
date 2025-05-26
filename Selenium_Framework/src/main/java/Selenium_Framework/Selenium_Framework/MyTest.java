@@ -1,4 +1,4 @@
-package Selenium_Framework.Selenium_Framework;
+package Selenium_Fraework.Selenium_Framewrk;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -23,6 +23,11 @@ public class MyTest {
 	public void test4()
 	{
 		System.out.println("This is test 4");
+	}
+	@Test
+	public void test6()
+	{
+		System.out.println("This is test 6");
 	}
 	@BeforeMethod
 	public void test5()

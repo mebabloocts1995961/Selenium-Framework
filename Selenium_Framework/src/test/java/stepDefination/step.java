@@ -24,6 +24,7 @@ public class step {
       driver= new ChromeDriver();
       driver.get("https://www.google.com/");
       System.out.println("Test mytest claes test...");
+      System.out.println("Test mytest claes test..3.");
       MyTest m=new MyTest();
 	}
 	
